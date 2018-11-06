@@ -1,0 +1,5 @@
+---
+applications:
+- name: langtrans
+  random-route: true
+  memory: 256M
